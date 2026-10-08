@@ -1,6 +1,6 @@
 {
   "dealership": "Castlegar Kia",
-  "generated_at": "2026-10-04T15:39:15",
+  "generated_at": "2026-10-08T14:34:09",
   "vehicle_count": 81,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -10,6 +10,7 @@
       "vin": "5XYKUDA7XFG651557",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "V6 Auto Exin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/36850c6ec562.html",
       "source_url": "https://www.castlegarkia.com/used/2015-Kia-Sorento-id13841334.html",
       "dealer_url": "https://www.castlegarkia.com/used/2015-Kia-Sorento-id13841334.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -19,8 +20,10 @@
       "odometer_km": 213898,
       "year": 2015,
       "make": "Kia",
-      "model": "Sorento Awd 4dr V6 Auto Exin Castlegar",
-      "condition": "used"
+      "model": "Sorento",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2015 Kia Sorento ",
@@ -36,7 +39,9 @@
       "year": 2015,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2015 Kia Sorento ",
@@ -52,13 +57,16 @@
       "year": 2015,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2020 Kia Sorento Ex V6in Castlegar",
       "vin": "5XYPHDA50LG660434",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Ex V6in Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/8244db546b05.html",
       "source_url": "https://www.castlegarkia.com/used/2020-Kia-Sorento-id14191043.html",
       "dealer_url": "https://www.castlegarkia.com/used/2020-Kia-Sorento-id14191043.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -68,8 +76,10 @@
       "odometer_km": 83588,
       "year": 2020,
       "make": "Kia",
-      "model": "Sorento Ex V6in Castlegar",
-      "condition": "used"
+      "model": "Sorento",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2020 Kia Sorento ",
@@ -85,12 +95,15 @@
       "year": 2020,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2021 Hyundai Kona Electric Ultimatein Castlegar",
       "vin": "KM8K33AG2MU135309",
       "stock": "NUMBER",
+      "trim": "Ultimatein Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/cca6ad2a050b.html",
       "source_url": "https://www.castlegarkia.com/used/2021-Hyundai-Kona_Electric-id14217414.html",
       "dealer_url": "https://www.castlegarkia.com/used/2021-Hyundai-Kona_Electric-id14217414.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -100,8 +113,10 @@
       "odometer_km": 108638,
       "year": 2021,
       "make": "Hyundai",
-      "model": "Kona Electric Ultimatein Castlegar",
-      "condition": "used"
+      "model": "Kona Electric",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2021 Hyundai Kona Electric ",
@@ -116,12 +131,15 @@
       "year": 2021,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek Onyx AWDin Castlegar",
       "vin": "JF2GUHFCXRH250168",
       "stock": "NUMBER",
+      "trim": "Onyx AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/841244cc5613.html",
       "source_url": "https://www.castlegarkia.com/used/2024-Subaru-Crosstrek-id14355299.html",
       "dealer_url": "https://www.castlegarkia.com/used/2024-Subaru-Crosstrek-id14355299.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -131,8 +149,10 @@
       "odometer_km": 71695,
       "year": 2024,
       "make": "Subaru",
-      "model": "Crosstrek Onyx AWDin Castlegar",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek ",
@@ -147,13 +167,16 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Carnival Lx Fwdin Castlegar",
       "vin": "KNDNB5K30S6485857",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Lx Fwdin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/22e171e72b34.html",
       "source_url": "https://www.castlegarkia.com/used/2025-Kia-Carnival-id13841344.html",
       "dealer_url": "https://www.castlegarkia.com/used/2025-Kia-Carnival-id13841344.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -163,8 +186,10 @@
       "odometer_km": 33249,
       "year": 2025,
       "make": "Kia",
-      "model": "Carnival Lx Fwdin Castlegar",
-      "condition": "used"
+      "model": "Carnival",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Carnival ",
@@ -180,7 +205,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Carnival ",
@@ -196,7 +223,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Carnival ",
@@ -212,11 +241,14 @@
       "year": 2026,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Carnival Hybridin Castlegar",
       "stock": "NUMBER",
+      "trim": "Hybridin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/06199180ad6f.html",
       "source_url": "https://www.castlegarkia.com/new/2026-Kia-Carnival_Hybrid.html",
       "dealer_url": "https://www.castlegarkia.com/new/2026-Kia-Carnival_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -225,8 +257,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Carnival Hybridin Castlegar",
-      "condition": "used"
+      "model": "Carnival",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia EV4in Castlegar",
@@ -240,7 +274,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "EV4in Castlegar",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4in Castlegar",
@@ -254,11 +290,14 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4in Castlegar",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 Hatchbackin Castlegar",
       "stock": "NUMBER",
+      "trim": "Hatchbackin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/ce99a3540195.html",
       "source_url": "https://www.castlegarkia.com/new/2026-Kia-K4_Hatchback.html",
       "dealer_url": "https://www.castlegarkia.com/new/2026-Kia-K4_Hatchback.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -267,12 +306,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "K4 Hatchbackin Castlegar",
-      "condition": "used"
+      "model": "K4",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EVin Castlegar",
       "stock": "NUMBER",
+      "trim": "EVin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/b75bc5736438.html",
       "source_url": "https://www.castlegarkia.com/new/2026-Kia-Niro_EV.html",
       "dealer_url": "https://www.castlegarkia.com/new/2026-Kia-Niro_EV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -281,12 +323,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EVin Castlegar",
-      "condition": "used"
+      "model": "Niro",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro Hybridin Castlegar",
       "stock": "NUMBER",
+      "trim": "Hybridin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/cdc60fd1db70.html",
       "source_url": "https://www.castlegarkia.com/new/2026-Kia-Niro_Hybrid.html",
       "dealer_url": "https://www.castlegarkia.com/new/2026-Kia-Niro_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -295,8 +340,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Niro Hybridin Castlegar",
-      "condition": "used"
+      "model": "Niro",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltosin Castlegar",
@@ -310,7 +357,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltosin Castlegar",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento ",
@@ -326,11 +375,14 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Plug-In Hybridin Castlegar",
       "stock": "NUMBER",
+      "trim": "Hybridin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/a192d403a787.html",
       "source_url": "https://www.castlegarkia.com/new/2026-Kia-Sorento_Plug_In_Hybrid.html",
       "dealer_url": "https://www.castlegarkia.com/new/2026-Kia-Sorento_Plug_In_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -339,8 +391,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sorento Plug-In Hybridin Castlegar",
-      "condition": "used"
+      "model": "Sorento Plug-In",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage ",
@@ -356,11 +410,14 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Hybridin Castlegar",
       "stock": "NUMBER",
+      "trim": "Hybridin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/bba74ed20815.html",
       "source_url": "https://www.castlegarkia.com/new/2026-Kia-Sportage_Hybrid.html",
       "dealer_url": "https://www.castlegarkia.com/new/2026-Kia-Sportage_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -369,12 +426,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage Hybridin Castlegar",
-      "condition": "used"
+      "model": "Sportage",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Plug-In Hybridin Castlegar",
       "stock": "NUMBER",
+      "trim": "Hybridin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/204eb1970069.html",
       "source_url": "https://www.castlegarkia.com/new/2026-Kia-Sportage_Plug_In_Hybrid.html",
       "dealer_url": "https://www.castlegarkia.com/new/2026-Kia-Sportage_Plug_In_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -383,8 +443,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage Plug-In Hybridin Castlegar",
-      "condition": "used"
+      "model": "Sportage Plug-In",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Carnival ",
@@ -400,11 +462,14 @@
       "year": 2026,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Carnival Hybridin Castlegar",
       "stock": "NUMBER",
+      "trim": "Hybridin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/06199180ad6f.html",
       "source_url": "https://www.castlegarkia.com/new/2026-Kia-Carnival_Hybrid.html",
       "dealer_url": "https://www.castlegarkia.com/new/2026-Kia-Carnival_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -413,8 +478,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Carnival Hybridin Castlegar",
-      "condition": "new"
+      "model": "Carnival",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia EV4in Castlegar",
@@ -428,7 +495,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "EV4in Castlegar",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4in Castlegar",
@@ -442,11 +511,14 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4in Castlegar",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 Hatchbackin Castlegar",
       "stock": "NUMBER",
+      "trim": "Hatchbackin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/ce99a3540195.html",
       "source_url": "https://www.castlegarkia.com/new/2026-Kia-K4_Hatchback.html",
       "dealer_url": "https://www.castlegarkia.com/new/2026-Kia-K4_Hatchback.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -455,12 +527,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "K4 Hatchbackin Castlegar",
-      "condition": "new"
+      "model": "K4",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EVin Castlegar",
       "stock": "NUMBER",
+      "trim": "EVin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/b75bc5736438.html",
       "source_url": "https://www.castlegarkia.com/new/2026-Kia-Niro_EV.html",
       "dealer_url": "https://www.castlegarkia.com/new/2026-Kia-Niro_EV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -469,12 +544,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EVin Castlegar",
-      "condition": "new"
+      "model": "Niro",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro Hybridin Castlegar",
       "stock": "NUMBER",
+      "trim": "Hybridin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/cdc60fd1db70.html",
       "source_url": "https://www.castlegarkia.com/new/2026-Kia-Niro_Hybrid.html",
       "dealer_url": "https://www.castlegarkia.com/new/2026-Kia-Niro_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -483,8 +561,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Niro Hybridin Castlegar",
-      "condition": "new"
+      "model": "Niro",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltosin Castlegar",
@@ -498,7 +578,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltosin Castlegar",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento ",
@@ -514,11 +596,14 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Plug-In Hybridin Castlegar",
       "stock": "NUMBER",
+      "trim": "Hybridin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/a192d403a787.html",
       "source_url": "https://www.castlegarkia.com/new/2026-Kia-Sorento_Plug_In_Hybrid.html",
       "dealer_url": "https://www.castlegarkia.com/new/2026-Kia-Sorento_Plug_In_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -527,8 +612,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sorento Plug-In Hybridin Castlegar",
-      "condition": "new"
+      "model": "Sorento Plug-In",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage ",
@@ -544,11 +631,14 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Hybridin Castlegar",
       "stock": "NUMBER",
+      "trim": "Hybridin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/bba74ed20815.html",
       "source_url": "https://www.castlegarkia.com/new/2026-Kia-Sportage_Hybrid.html",
       "dealer_url": "https://www.castlegarkia.com/new/2026-Kia-Sportage_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -557,12 +647,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage Hybridin Castlegar",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Plug-In Hybridin Castlegar",
       "stock": "NUMBER",
+      "trim": "Hybridin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/204eb1970069.html",
       "source_url": "https://www.castlegarkia.com/new/2026-Kia-Sportage_Plug_In_Hybrid.html",
       "dealer_url": "https://www.castlegarkia.com/new/2026-Kia-Sportage_Plug_In_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -571,14 +664,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage Plug-In Hybridin Castlegar",
-      "condition": "new"
+      "model": "Sportage Plug-In",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Carnival SXin Castlegar",
       "vin": "KNDNE5K35T6646597",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "SXin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/0ad995953e4f.html",
       "source_url": "https://www.castlegarkia.com/new/inventory/2026-Kia-Carnival-id13956080.html",
       "dealer_url": "https://www.castlegarkia.com/new/inventory/2026-Kia-Carnival-id13956080.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -587,14 +683,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Carnival SXin Castlegar",
-      "condition": "new"
+      "model": "Carnival",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento LX HEV AWDin Castlegar",
       "vin": "KNDRFDJG3T5515400",
       "stock": "NUMBER",
       "color": "Green",
+      "trim": "LX HEV AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/e4ddfb91df52.html",
       "source_url": "https://www.castlegarkia.com/new/inventory/2026-Kia-Sorento-id13859698.html",
       "dealer_url": "https://www.castlegarkia.com/new/inventory/2026-Kia-Sorento-id13859698.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -603,13 +702,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sorento LX HEV AWDin Castlegar",
-      "condition": "new"
+      "model": "Sorento",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento HEV SX AWDin Castlegar",
       "vin": "KNDRHDJG3T5545684",
       "stock": "NUMBER",
+      "trim": "SX AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/fc3bd13ba15e.html",
       "source_url": "https://www.castlegarkia.com/new/inventory/2026-Kia-Sorento_HEV-id14068523.html",
       "dealer_url": "https://www.castlegarkia.com/new/inventory/2026-Kia-Sorento_HEV-id14068523.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -618,14 +720,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sorento HEV SX AWDin Castlegar",
-      "condition": "new"
+      "model": "Sorento HEV",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Ex Premium Awdin Castlegar",
       "vin": "KNDPVCDF8T7478744",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Ex Premium Awdin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/7a9b2a8aeacb.html",
       "source_url": "https://www.castlegarkia.com/new/inventory/2026-Kia-Sportage-id13841323.html",
       "dealer_url": "https://www.castlegarkia.com/new/inventory/2026-Kia-Sportage-id13841323.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -634,14 +739,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage Ex Premium Awdin Castlegar",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Ex Awdin Castlegar",
       "vin": "KNDPVCDF4T7502618",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Ex Awdin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/2726fa4e6c49.html",
       "source_url": "https://www.castlegarkia.com/new/inventory/2026-Kia-Sportage-id13841326.html",
       "dealer_url": "https://www.castlegarkia.com/new/inventory/2026-Kia-Sportage-id13841326.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -650,13 +758,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage Ex Awdin Castlegar",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Ex Awdin Castlegar",
       "vin": "KNDPVCDF6T7484364",
       "stock": "NUMBER",
+      "trim": "Ex Awdin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/44d5fd411ee5.html",
       "source_url": "https://www.castlegarkia.com/new/inventory/2026-Kia-Sportage-id13841342.html",
       "dealer_url": "https://www.castlegarkia.com/new/inventory/2026-Kia-Sportage-id13841342.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -665,14 +776,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage Ex Awdin Castlegar",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Ex Premium Awdin Castlegar",
       "vin": "KNDPVCDF3T7450267",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Ex Premium Awdin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/a5e0b6826a32.html",
       "source_url": "https://www.castlegarkia.com/new/inventory/2026-Kia-Sportage-id13841345.html",
       "dealer_url": "https://www.castlegarkia.com/new/inventory/2026-Kia-Sportage-id13841345.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -681,14 +795,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage Ex Premium Awdin Castlegar",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EXin Castlegar",
       "vin": "KNDPVCDF6T7518643",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "EXin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/b80734366e76.html",
       "source_url": "https://www.castlegarkia.com/new/inventory/2026-Kia-Sportage-id13944675.html",
       "dealer_url": "https://www.castlegarkia.com/new/inventory/2026-Kia-Sportage-id13944675.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -697,14 +814,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage EXin Castlegar",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LXin Castlegar",
       "vin": "KNDPUCDF9T7511110",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "LXin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/ea7047b2d586.html",
       "source_url": "https://www.castlegarkia.com/new/inventory/2026-Kia-Sportage-id13950067.html",
       "dealer_url": "https://www.castlegarkia.com/new/inventory/2026-Kia-Sportage-id13950067.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -713,14 +833,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage LXin Castlegar",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Line Limited AWD w/Brown Interiorin Castlegar",
       "vin": "KNDPXCDFXT7530451",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "X-Line Limited",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/fb9ff4ac8177.html",
       "source_url": "https://www.castlegarkia.com/new/inventory/2026-Kia-Sportage-id13992093.html",
       "dealer_url": "https://www.castlegarkia.com/new/inventory/2026-Kia-Sportage-id13992093.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -729,14 +852,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage X-Line Limited AWD w/Brown Interiorin Castlegar",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Line AWDin Castlegar",
       "vin": "KNDPUCDFXT7539708",
       "stock": "NUMBER",
       "color": "Green",
+      "trim": "X-Line AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/6faaa0c5fbba.html",
       "source_url": "https://www.castlegarkia.com/new/inventory/2026-Kia-Sportage-id14336836.html",
       "dealer_url": "https://www.castlegarkia.com/new/inventory/2026-Kia-Sportage-id14336836.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -745,8 +871,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage X-Line AWDin Castlegar",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival ",
@@ -762,11 +890,14 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival Hybridin Castlegar",
       "stock": "NUMBER",
+      "trim": "Hybridin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/52e8cf253a72.html",
       "source_url": "https://www.castlegarkia.com/new/2027-Kia-Carnival_Hybrid.html",
       "dealer_url": "https://www.castlegarkia.com/new/2027-Kia-Carnival_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -775,8 +906,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Kia",
-      "model": "Carnival Hybridin Castlegar",
-      "condition": "used"
+      "model": "Carnival",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV3 ",
@@ -792,7 +925,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "EV3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV5 ",
@@ -808,7 +943,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "EV5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia PV5in Castlegar",
@@ -822,7 +959,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "PV5in Castlegar",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos ",
@@ -838,11 +977,14 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sorento Hybridin Castlegar",
       "stock": "NUMBER",
+      "trim": "Hybridin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/898b246fa259.html",
       "source_url": "https://www.castlegarkia.com/new/2027-Kia-Sorento_Hybrid.html",
       "dealer_url": "https://www.castlegarkia.com/new/2027-Kia-Sorento_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -851,12 +993,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Kia",
-      "model": "Sorento Hybridin Castlegar",
-      "condition": "used"
+      "model": "Sorento",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sorento Plug-In Hybridin Castlegar",
       "stock": "NUMBER",
+      "trim": "Hybridin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/a7cb119ef9de.html",
       "source_url": "https://www.castlegarkia.com/new/2027-Kia-Sorento_Plug_In_Hybrid.html",
       "dealer_url": "https://www.castlegarkia.com/new/2027-Kia-Sorento_Plug_In_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -865,8 +1010,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Kia",
-      "model": "Sorento Plug-In Hybridin Castlegar",
-      "condition": "used"
+      "model": "Sorento Plug-In",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage ",
@@ -882,7 +1029,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage ",
@@ -898,7 +1047,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival ",
@@ -914,11 +1065,14 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival Hybridin Castlegar",
       "stock": "NUMBER",
+      "trim": "Hybridin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/52e8cf253a72.html",
       "source_url": "https://www.castlegarkia.com/new/2027-Kia-Carnival_Hybrid.html",
       "dealer_url": "https://www.castlegarkia.com/new/2027-Kia-Carnival_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -927,8 +1081,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Kia",
-      "model": "Carnival Hybridin Castlegar",
-      "condition": "new"
+      "model": "Carnival",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV3 ",
@@ -944,7 +1100,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "EV3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV5 ",
@@ -960,7 +1118,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "EV5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia PV5in Castlegar",
@@ -974,7 +1134,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "PV5in Castlegar",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos ",
@@ -990,11 +1152,14 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sorento Hybridin Castlegar",
       "stock": "NUMBER",
+      "trim": "Hybridin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/898b246fa259.html",
       "source_url": "https://www.castlegarkia.com/new/2027-Kia-Sorento_Hybrid.html",
       "dealer_url": "https://www.castlegarkia.com/new/2027-Kia-Sorento_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1003,12 +1168,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Kia",
-      "model": "Sorento Hybridin Castlegar",
-      "condition": "new"
+      "model": "Sorento",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sorento Plug-In Hybridin Castlegar",
       "stock": "NUMBER",
+      "trim": "Hybridin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/a7cb119ef9de.html",
       "source_url": "https://www.castlegarkia.com/new/2027-Kia-Sorento_Plug_In_Hybrid.html",
       "dealer_url": "https://www.castlegarkia.com/new/2027-Kia-Sorento_Plug_In_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1017,8 +1185,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Kia",
-      "model": "Sorento Plug-In Hybridin Castlegar",
-      "condition": "new"
+      "model": "Sorento Plug-In",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage ",
@@ -1034,7 +1204,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage ",
@@ -1050,13 +1222,16 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival SX FWDin Castlegar",
       "vin": "KNDNE5K39V6665589",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "SX FWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/c60bd0f293b5.html",
       "source_url": "https://www.castlegarkia.com/new/inventory/2027-Kia-Carnival-id14217037.html",
       "dealer_url": "https://www.castlegarkia.com/new/inventory/2027-Kia-Carnival-id14217037.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1065,14 +1240,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Kia",
-      "model": "Carnival SX FWDin Castlegar",
-      "condition": "new"
+      "model": "Carnival",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV3 Land FWDin Castlegar",
       "vin": "3KMDC4DA5VE002941",
       "stock": "NUMBER",
       "color": "Light green",
+      "trim": "Land FWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/4f7047fb1c0d.html",
       "source_url": "https://www.castlegarkia.com/new/inventory/2027-Kia-EV3-id14217039.html",
       "dealer_url": "https://www.castlegarkia.com/new/inventory/2027-Kia-EV3-id14217039.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1081,14 +1259,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Kia",
-      "model": "EV3 Land FWDin Castlegar",
-      "condition": "new"
+      "model": "EV3",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV3 Wind AWDin Castlegar",
       "vin": "3KMDBDDC2VE004151",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Wind AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/f6ea455a2446.html",
       "source_url": "https://www.castlegarkia.com/new/inventory/2027-Kia-EV3-id14381411.html",
       "dealer_url": "https://www.castlegarkia.com/new/inventory/2027-Kia-EV3-id14381411.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1097,14 +1278,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Kia",
-      "model": "EV3 Wind AWDin Castlegar",
-      "condition": "new"
+      "model": "EV3",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV5 Land AWDin Castlegar",
       "vin": "KNDH4DDE4V7055991",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Land AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/40dbdc6ffd4f.html",
       "source_url": "https://www.castlegarkia.com/new/inventory/2027-Kia-EV5-id14257214.html",
       "dealer_url": "https://www.castlegarkia.com/new/inventory/2027-Kia-EV5-id14257214.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1113,14 +1297,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Kia",
-      "model": "EV5 Land AWDin Castlegar",
-      "condition": "new"
+      "model": "EV5",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos EX AWDin Castlegar",
       "vin": "KNDECCD3XV7052088",
       "stock": "NUMBER",
       "color": "Brown",
+      "trim": "EX AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/5e7a4d2a9b1b.html",
       "source_url": "https://www.castlegarkia.com/new/inventory/2027-Kia-Seltos-id14257225.html",
       "dealer_url": "https://www.castlegarkia.com/new/inventory/2027-Kia-Seltos-id14257225.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1129,13 +1316,16 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos EX AWDin Castlegar",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage SX AWD PHEV w/Black Interiorin Castlegar",
       "vin": "KNDPXDDH6V7450770",
       "stock": "NUMBER",
+      "trim": "SX PHEV",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/6c42d123df55.html",
       "source_url": "https://www.castlegarkia.com/new/inventory/2027-Kia-Sportage-id14256954.html",
       "dealer_url": "https://www.castlegarkia.com/new/inventory/2027-Kia-Sportage-id14256954.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1144,14 +1334,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Kia",
-      "model": "Sportage SX AWD PHEV w/Black Interiorin Castlegar",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage EX Hybrid AWDin Castlegar",
       "vin": "KNDPVDDG8V7443476",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "EX Hybrid AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/c6c81f85bd20.html",
       "source_url": "https://www.castlegarkia.com/new/inventory/2027-Kia-Sportage-id14257218.html",
       "dealer_url": "https://www.castlegarkia.com/new/inventory/2027-Kia-Sportage-id14257218.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1160,13 +1353,16 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Kia",
-      "model": "Sportage EX Hybrid AWDin Castlegar",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage SX AWD w/Black Interiorin Castlegar",
       "vin": "KNDPXDDG5V7439413",
       "stock": "NUMBER",
+      "trim": "SX",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/b22963352d79.html",
       "source_url": "https://www.castlegarkia.com/new/inventory/2027-Kia-Sportage-id14257221.html",
       "dealer_url": "https://www.castlegarkia.com/new/inventory/2027-Kia-Sportage-id14257221.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1175,14 +1371,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Kia",
-      "model": "Sportage SX AWD w/Black Interiorin Castlegar",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage EX AWDin Castlegar",
       "vin": "KNDPVDDHXV7452303",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "EX AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/06d3c1ca2736.html",
       "source_url": "https://www.castlegarkia.com/new/inventory/2027-Kia-Sportage-id14336837.html",
       "dealer_url": "https://www.castlegarkia.com/new/inventory/2027-Kia-Sportage-id14336837.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1191,13 +1390,16 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Kia",
-      "model": "Sportage EX AWDin Castlegar",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage SX AWD w/Black Interiorin Castlegar",
       "vin": "KNDPXDDG0V7462193",
       "stock": "NUMBER",
+      "trim": "SX",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/43c53d86f593.html",
       "source_url": "https://www.castlegarkia.com/new/inventory/2027-Kia-Sportage-id14381373.html",
       "dealer_url": "https://www.castlegarkia.com/new/inventory/2027-Kia-Sportage-id14381373.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1206,14 +1408,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Kia",
-      "model": "Sportage SX AWD w/Black Interiorin Castlegar",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage EX AWDin Castlegar",
       "vin": "KNDPVDDG7V7463122",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "EX AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/93922a3e52c2.html",
       "source_url": "https://www.castlegarkia.com/new/inventory/2027-Kia-Sportage-id14381408.html",
       "dealer_url": "https://www.castlegarkia.com/new/inventory/2027-Kia-Sportage-id14381408.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1222,14 +1427,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Kia",
-      "model": "Sportage EX AWDin Castlegar",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage HEV Hybrid SXin Castlegar",
       "vin": "KNDPXDDG7V7422712",
       "stock": "NUMBER",
       "color": "Light blue",
+      "trim": "SXin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/e8e4027fb039.html",
       "source_url": "https://www.castlegarkia.com/new/inventory/2027-Kia-Sportage_HEV-id14068493.html",
       "dealer_url": "https://www.castlegarkia.com/new/inventory/2027-Kia-Sportage_HEV-id14068493.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1238,8 +1446,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Kia",
-      "model": "Sportage HEV Hybrid SXin Castlegar",
-      "condition": "new"
+      "model": "Sportage HEV Hybrid",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     }
   ]
 }
