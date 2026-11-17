@@ -1,256 +1,43 @@
 {
   "dealership": "Castlegar Kia",
-  "generated_at": "2026-10-26T07:10:12",
-  "vehicle_count": 81,
+  "generated_at": "2026-11-17T06:58:14",
+  "vehicle_count": 85,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "New 2027 Kia Seltos LX AWDin Castlegar",
-      "vin": "KNDEBCD35V5040543",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/229ea879c6c0.html",
+      "name": "Subaru Solterra 2024 for salein Castlegar",
+      "vin": "JTMABABA0RA063813",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/6301138aec31.html",
       "condition": "used",
-      "price": 32880.0,
+      "price": 35490.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Kia Carnival SXin Castlegar",
-      "vin": "KNDNE5K35T6646597",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/0ad995953e4f.html",
-      "condition": "new",
-      "price": 55495.0,
+      "name": "Kia Carnival 2025 for salein Castlegar",
+      "vin": "KNDNB5K30S6485857",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/f97c0692d8ff.html",
+      "condition": "used",
+      "price": 35790.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Kia Sorento LX HEV AWDin Castlegar",
-      "vin": "KNDRFDJG3T5515400",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/e4ddfb91df52.html",
-      "condition": "new",
-      "price": 45695.0,
+      "name": "Kia K4 2025 for salein Castlegar",
+      "vin": "3KPFU4DE3SE174117",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/3ddc18aa81c5.html",
+      "condition": "used",
+      "price": 27999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Kia Sorento HEV SX AWDin Castlegar",
-      "vin": "KNDRHDJG3T5545684",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/fc3bd13ba15e.html",
-      "condition": "new",
-      "price": 57880.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage Ex Premium Awdin Castlegar",
-      "vin": "KNDPVCDF8T7478744",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/7a9b2a8aeacb.html",
-      "condition": "new",
-      "price": 43845.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage Ex Awdin Castlegar",
-      "vin": "KNDPVCDF4T7502618",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/2726fa4e6c49.html",
-      "condition": "new",
-      "price": 41845.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage Ex Awdin Castlegar",
-      "vin": "KNDPVCDF6T7484364",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/44d5fd411ee5.html",
-      "condition": "new",
-      "price": 41945.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage Ex Premium Awdin Castlegar",
-      "vin": "KNDPVCDF3T7450267",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/a5e0b6826a32.html",
-      "condition": "new",
-      "price": 42945.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage EXin Castlegar",
-      "vin": "KNDPVCDF6T7518643",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/b80734366e76.html",
-      "condition": "new",
-      "price": 41845.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage X-Line Limited AWD w/Brown Interiorin Castlegar",
-      "vin": "KNDPXCDFXT7530451",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/fb9ff4ac8177.html",
-      "condition": "new",
-      "price": 47380.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage LXin Castlegar",
-      "vin": "KNDPUCDF9T7511110",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/8707674bd48b.html",
-      "condition": "new",
-      "price": 36045.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia Carnival SX FWDin Castlegar",
-      "vin": "KNDNE5K39V6665589",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/c60bd0f293b5.html",
-      "condition": "new",
-      "price": 56630.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia EV3 Land FWDin Castlegar",
-      "vin": "3KMDC4DA5VE002941",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/4f7047fb1c0d.html",
-      "condition": "new",
-      "price": 41466.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia EV3 Wind AWDin Castlegar",
-      "vin": "3KMDBDDC2VE004151",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/f6ea455a2446.html",
-      "condition": "new",
-      "price": 41466.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia EV4 Wind Premium AWDin Castlegar",
-      "vin": "KNAD34D58V6024778",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/bbc337a22352.html",
-      "condition": "new",
-      "price": 51030.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia EV5 Wind AWDin Castlegar",
-      "vin": "KNDH3DDEXV7059370",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/8fc74b077975.html",
-      "condition": "new",
-      "price": 52130.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia Seltos EX AWDin Castlegar",
-      "vin": "KNDECCD3XV7052088",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/5e7a4d2a9b1b.html",
-      "condition": "new",
-      "price": 35880.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia Seltos LX AWDin Castlegar",
-      "vin": "KNDEBCD35V5040543",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/dcc2d6cdd526.html",
-      "condition": "new",
-      "price": 32880.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia Seltos EXin Castlegar",
-      "vin": "KNDECCD32V7070763",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/fbcd4d320950.html",
-      "condition": "new",
-      "price": 35880.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia Sportage PHEV SX AWD w/Black Interiorin Castlegar",
-      "vin": "KNDPXDDH6V7450770",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/6c42d123df55.html",
-      "condition": "new",
-      "price": 55580.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia Sportage HEV EX Hybrid AWDin Castlegar",
-      "vin": "KNDPVDDG8V7443476",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/c6c81f85bd20.html",
-      "condition": "new",
-      "price": 44080.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia Sportage HEV SX AWD w/Black Interiorin Castlegar",
-      "vin": "KNDPXDDG5V7439413",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/b22963352d79.html",
-      "condition": "new",
-      "price": 50580.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia Sportage PHEV EX AWDin Castlegar",
-      "vin": "KNDPVDDHXV7452303",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/06d3c1ca2736.html",
-      "condition": "new",
-      "price": 51480.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia Sportage HEV SX AWD w/Black Interiorin Castlegar",
-      "vin": "KNDPXDDG0V7462193",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/43c53d86f593.html",
-      "condition": "new",
-      "price": 50580.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia Sportage EX AWDin Castlegar",
-      "vin": "KNDPVDDG7V7463122",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/93922a3e52c2.html",
-      "condition": "new",
-      "price": 44080.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia Sportage HEV Hybrid SXin Castlegar",
-      "vin": "KNDPXDDG7V7422712",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/e8e4027fb039.html",
-      "condition": "new",
-      "price": 50580.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia Sportage HEV EX Hybrid AWDin Castlegar",
-      "vin": "KNDPVDDG8V7443476",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/edeaba4ac748.html",
-      "condition": "new",
-      "price": 44080.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia Sportage HEV SX AWD w/Black Interiorin Castlegar",
-      "vin": "KNDPXDDG5V7439413",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/aa4ff025fb8d.html",
-      "condition": "new",
-      "price": 50580.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia Sportage HEV SX AWD w/Black Interiorin Castlegar",
-      "vin": "KNDPXDDG0V7462193",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/725230263ce8.html",
-      "condition": "new",
-      "price": 50580.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia Sportage PHEV SX AWD w/Black Interiorin Castlegar",
-      "vin": "KNDPXDDH6V7450770",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/e22336ea8558.html",
-      "condition": "new",
-      "price": 55580.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia Sportage PHEV EX AWDin Castlegar",
-      "vin": "KNDPVDDHXV7452303",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/c56fe7cb1de1.html",
-      "condition": "new",
-      "price": 51480.0,
+      "name": "2024 Subaru Solterra AWD w/Luxury Packagein Castlegar",
+      "vin": "JTMABABA0RA063813",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/a6b21ce9041e.html",
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Solterra AWD w/Luxury Packagein Castlegar",
+      "condition": "used",
+      "price": 35490.0,
       "price_currency": "CAD"
     },
     {
@@ -261,18 +48,18 @@
       "make": "Kia",
       "model": "Carnival",
       "condition": "used",
-      "price": 37490.0,
+      "price": 35790.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Kia Carnival ",
-      "vin": "KNDNB5K30S6485857",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/f97c0692d8ff.html",
+      "name": "2025 Kia K4 EXin Castlegar",
+      "vin": "3KPFU4DE3SE174117",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/122b25f78f36.html",
       "year": 2025,
       "make": "Kia",
-      "model": "Carnival",
+      "model": "K4",
       "condition": "used",
-      "price": 37490.0,
+      "price": 27999.0,
       "price_currency": "CAD"
     },
     {
@@ -344,7 +131,7 @@
       "make": "Kia",
       "model": "Niro",
       "condition": "used",
-      "price": 39266.0,
+      "price": 38266.0,
       "price_currency": "CAD"
     },
     {
@@ -368,14 +155,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia Sorento ",
-      "vin": "KNDRFDJG3T5515400",
+      "name": "2026 Kia Sorento Hybridin Castlegar",
+      "vin": "KNDRHDJG3T5545684",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/dc7677b962d6.html",
       "year": 2026,
       "make": "Kia",
       "model": "Sorento",
       "condition": "used",
-      "price": 45695.0,
+      "price": 45629.0,
       "price_currency": "CAD"
     },
     {
@@ -563,6 +350,116 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Kia Carnival SXin Castlegar",
+      "vin": "KNDNE5K35T6646597",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/0ad995953e4f.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Carnival",
+      "condition": "new",
+      "price": 55495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sorento LX HEV AWDin Castlegar",
+      "vin": "KNDRFDJG3T5515400",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/e4ddfb91df52.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sorento",
+      "condition": "new",
+      "price": 45695.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sorento HEV SX AWDin Castlegar",
+      "vin": "KNDRHDJG3T5545684",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/fc3bd13ba15e.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sorento HEV",
+      "condition": "new",
+      "price": 57880.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage Ex Premium Awdin Castlegar",
+      "vin": "KNDPVCDF8T7478744",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/7a9b2a8aeacb.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 43845.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage Ex Awdin Castlegar",
+      "vin": "KNDPVCDF4T7502618",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/2726fa4e6c49.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 41845.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage Ex Awdin Castlegar",
+      "vin": "KNDPVCDF6T7484364",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/44d5fd411ee5.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 41945.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage Ex Premium Awdin Castlegar",
+      "vin": "KNDPVCDF3T7450267",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/a5e0b6826a32.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 42945.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage EXin Castlegar",
+      "vin": "KNDPVCDF6T7518643",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/b80734366e76.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 41845.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage X-Line Limited AWD w/Brown Interiorin Castlegar",
+      "vin": "KNDPXCDFXT7530451",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/fb9ff4ac8177.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 47380.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage LXin Castlegar",
+      "vin": "KNDPUCDF9T7511110",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/8707674bd48b.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 36045.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Kia Carnival ",
       "vin": "KNDNE5K39V6665589",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/af459ae590bd.html",
@@ -584,47 +481,43 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia EV3 ",
-      "vin": "3KMDC4DA5VE002941",
+      "name": "2027 Kia EV3in Castlegar",
+      "vin": "3KMDBDDC8VE007927",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/de30db81eb15.html",
       "year": 2027,
       "make": "Kia",
-      "model": "EV3",
+      "model": "EV3in Castlegar",
       "condition": "used",
-      "price": 41466.0,
+      "price": 34816.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia EV4 ",
+      "name": "2027 Kia EV4in Castlegar",
       "vin": "KNAD34D58V6024778",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/d036922c1900.html",
       "year": 2027,
       "make": "Kia",
-      "model": "EV4",
-      "condition": "used",
-      "price": 51030.0,
-      "price_currency": "CAD"
+      "model": "EV4in Castlegar",
+      "condition": "used"
     },
     {
-      "name": "2027 Kia EV5 ",
+      "name": "2027 Kia EV5in Castlegar",
       "vin": "KNDH3DDEXV7059370",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/140f3a95b374.html",
       "year": 2027,
       "make": "Kia",
-      "model": "EV5",
-      "condition": "used",
-      "price": 52130.0,
-      "price_currency": "CAD"
+      "model": "EV5in Castlegar",
+      "condition": "used"
     },
     {
-      "name": "2027 Kia Seltos ",
-      "vin": "KNDECCD3XV7052088",
+      "name": "2027 Kia Seltosin Castlegar",
+      "vin": "KNDEBCD32V5017446",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/58f5d8c93e31.html",
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos",
+      "model": "Seltosin Castlegar",
       "condition": "used",
-      "price": 35880.0,
+      "price": 31429.0,
       "price_currency": "CAD"
     },
     {
@@ -648,25 +541,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage ",
-      "vin": "KNDPVDDG7V7463122",
+      "name": "2027 Kia Sportage Hybridin Castlegar",
+      "vin": "KNDPVDDG8V7443476",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/c8660a1a4e6f.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 44080.0,
+      "price": 44129.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage PHEV ",
-      "vin": "KNDPVDDHXV7452303",
+      "name": "2027 Kia Sportage Plug-In Hybridin Castlegar",
+      "vin": "KNDPXDDH6V7450770",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/3d567cf0e46d.html",
       "year": 2027,
       "make": "Kia",
-      "model": "Sportage PHEV",
+      "model": "Sportage Plug-In",
       "condition": "used",
-      "price": 51480.0,
+      "price": 47397.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia Seltos LX AWDin Castlegar",
+      "vin": "KNDEBCD35V5040543",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/229ea879c6c0.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "used",
+      "price": 32880.0,
       "price_currency": "CAD"
     },
     {
@@ -769,6 +673,226 @@
       "name": "2027 Kia Sportage PHEV ",
       "vin": "KNDPVDDHXV7452303",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/3d567cf0e46d.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage PHEV",
+      "condition": "new",
+      "price": 51480.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia Carnival SX FWDin Castlegar",
+      "vin": "KNDNE5K39V6665589",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/c60bd0f293b5.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Carnival",
+      "condition": "new",
+      "price": 56630.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia EV3 Land FWDin Castlegar",
+      "vin": "3KMDC4DA5VE002941",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/4f7047fb1c0d.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "EV3",
+      "condition": "new",
+      "price": 41466.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia EV3 Wind AWDin Castlegar",
+      "vin": "3KMDBDDC2VE004151",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/f6ea455a2446.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "EV3",
+      "condition": "new",
+      "price": 41466.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia EV4 Wind Premium AWDin Castlegar",
+      "vin": "KNAD34D58V6024778",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/bbc337a22352.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "EV4",
+      "condition": "new",
+      "price": 51030.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia EV5 Wind AWDin Castlegar",
+      "vin": "KNDH3DDEXV7059370",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/8fc74b077975.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "EV5",
+      "condition": "new",
+      "price": 52130.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia Seltos EX AWDin Castlegar",
+      "vin": "KNDECCD3XV7052088",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/5e7a4d2a9b1b.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "new",
+      "price": 35880.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia Seltos LX AWDin Castlegar",
+      "vin": "KNDEBCD35V5040543",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/dcc2d6cdd526.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "new",
+      "price": 32880.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia Seltos EXin Castlegar",
+      "vin": "KNDECCD32V7070763",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/fbcd4d320950.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "new",
+      "price": 35880.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia Sportage PHEV SX AWD w/Black Interiorin Castlegar",
+      "vin": "KNDPXDDH6V7450770",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/6c42d123df55.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage PHEV",
+      "condition": "new",
+      "price": 55580.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia Sportage HEV EX Hybrid AWDin Castlegar",
+      "vin": "KNDPVDDG8V7443476",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/c6c81f85bd20.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage HEV",
+      "condition": "new",
+      "price": 44080.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia Sportage HEV SX AWD w/Black Interiorin Castlegar",
+      "vin": "KNDPXDDG5V7439413",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/b22963352d79.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage HEV",
+      "condition": "new",
+      "price": 50580.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia Sportage PHEV EX AWDin Castlegar",
+      "vin": "KNDPVDDHXV7452303",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/06d3c1ca2736.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage PHEV",
+      "condition": "new",
+      "price": 51480.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia Sportage HEV SX AWD w/Black Interiorin Castlegar",
+      "vin": "KNDPXDDG0V7462193",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/43c53d86f593.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage HEV",
+      "condition": "new",
+      "price": 50580.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia Sportage EX AWDin Castlegar",
+      "vin": "KNDPVDDG7V7463122",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/93922a3e52c2.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 44080.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia Sportage HEV Hybrid SXin Castlegar",
+      "vin": "KNDPXDDG7V7422712",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/e8e4027fb039.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage HEV Hybrid",
+      "condition": "new",
+      "price": 50580.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia Sportage HEV EX Hybrid AWDin Castlegar",
+      "vin": "KNDPVDDG8V7443476",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/edeaba4ac748.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage HEV",
+      "condition": "new",
+      "price": 44080.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia Sportage HEV SX AWD w/Black Interiorin Castlegar",
+      "vin": "KNDPXDDG5V7439413",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/aa4ff025fb8d.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage HEV",
+      "condition": "new",
+      "price": 50580.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia Sportage HEV SX AWD w/Black Interiorin Castlegar",
+      "vin": "KNDPXDDG0V7462193",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/725230263ce8.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage HEV",
+      "condition": "new",
+      "price": 50580.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia Sportage PHEV SX AWD w/Black Interiorin Castlegar",
+      "vin": "KNDPXDDH6V7450770",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/e22336ea8558.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage PHEV",
+      "condition": "new",
+      "price": 55580.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia Sportage PHEV EX AWDin Castlegar",
+      "vin": "KNDPVDDHXV7452303",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/c56fe7cb1de1.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage PHEV",
