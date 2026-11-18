@@ -1,6 +1,6 @@
 {
   "dealership": "Castlegar Kia",
-  "generated_at": "2026-11-17T07:05:57",
+  "generated_at": "2026-11-17T23:29:25",
   "vehicle_count": 93,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -74,14 +74,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia Carnival ",
+      "name": "2026 Kia Carnivalin Castlegar",
       "vin": "KNDNE5K35T6646597",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/43910b985208.html",
       "year": 2026,
       "make": "Kia",
-      "model": "Carnival",
+      "model": "Carnivalin Castlegar",
       "condition": "used",
-      "price": 55495.0,
+      "price": 44429.0,
       "price_currency": "CAD"
     },
     {
@@ -91,7 +91,7 @@
       "make": "Kia",
       "model": "Carnival",
       "condition": "used",
-      "price": 50879.0,
+      "price": 51379.0,
       "price_currency": "CAD"
     },
     {
@@ -176,14 +176,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia Sportage ",
+      "name": "2026 Kia Sportagein Castlegar",
       "vin": "KNDPVCDF8T7478744",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/1be1594268bb.html",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage",
+      "model": "Sportagein Castlegar",
       "condition": "used",
-      "price": 43845.0,
+      "price": 34279.0,
       "price_currency": "CAD"
     },
     {
@@ -193,7 +193,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 43979.0,
+      "price": 44479.0,
       "price_currency": "CAD"
     },
     {
