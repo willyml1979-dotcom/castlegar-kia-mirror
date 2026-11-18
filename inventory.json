@@ -1,6 +1,6 @@
 {
   "dealership": "Castlegar Kia",
-  "generated_at": "2026-11-17T23:38:44",
+  "generated_at": "2026-11-18T08:50:47",
   "vehicle_count": 88,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -425,14 +425,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Carnival ",
+      "name": "2027 Kia Carnivalin Castlegar",
       "vin": "KNDNE5K39V6665589",
       "url": "https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/af459ae590bd.html",
       "year": 2027,
       "make": "Kia",
-      "model": "Carnival",
+      "model": "Carnivalin Castlegar",
       "condition": "used",
-      "price": 56630.0,
+      "price": 45779.0,
       "price_currency": "CAD"
     },
     {
