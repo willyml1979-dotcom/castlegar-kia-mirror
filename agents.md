@@ -7,7 +7,7 @@ Castlegar Kia is a  dealership in Castlegar. This site is an AI-readable mirror 
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/ and https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/ (about 93 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/ and https://willyml1979-dotcom.github.io/castlegar-kia-mirror/new/ (about 88 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/castlegar-kia-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/castlegar-kia-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/castlegar-kia-mirror/llms.txt

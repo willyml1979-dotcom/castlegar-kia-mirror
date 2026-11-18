@@ -1,6 +1,6 @@
 # Castlegar Kia
 
- dealership in Castlegar. AI-readable inventory mirror, about 93 vehicles.
+ dealership in Castlegar. AI-readable inventory mirror, about 88 vehicles.
 
 - Official website: https://www.castlegarkia.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/castlegar-kia-mirror/used/
